@@ -1,0 +1,4 @@
+{"address":"ed7ea8d3c6547c767a88386a00f00ae135cf053f","id":"51f4ed3d-307d-466d-91ec-1a87a598c674","version":3,"crypto":{"cipher":"aes-128-ctr","ciphertext":"9a2c1b25d8d114770333e9189d341af103cf37b50635bed7da5f4598c75dc626","cipherparams":{"iv":"c6c6073665a4e31c113ac150b5846585"},"kdf":"scrypt","kdfparams":{"dklen":32,"n":262144,"p":1,"r":8,"salt":"ab425664357d3ca077b16d2aee61e143eec6341de1d9d06a455c6ab084c7150e"},"mac":"7057829057f83dfff97c3d0f85d12b91831a6099b031ef35267b8bb25dcba868"}}
+
+
+0xed7ea8d3c6547c767a88386a00f00ae135cf053f
