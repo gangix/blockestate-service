@@ -2,14 +2,8 @@ package com.dcs.docusign.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
-import org.web3j.model.RealEstateEscrow;
-import org.web3j.model.RealEstateEscrowFactory;
 import org.web3j.protocol.Web3j;
-import org.web3j.protocol.core.methods.response.TransactionReceipt;
-import org.web3j.tx.gas.DefaultGasProvider;
-import org.web3j.crypto.Credentials;
 
 
 @Service

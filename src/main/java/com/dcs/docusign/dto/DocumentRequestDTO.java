@@ -1,7 +1,5 @@
 package com.dcs.docusign.dto;
 
-import org.springframework.web.multipart.MultipartFile;
-
 public class DocumentRequestDTO {
     private DocumentMetadataDTO metadata;
     private byte[] fileContent;

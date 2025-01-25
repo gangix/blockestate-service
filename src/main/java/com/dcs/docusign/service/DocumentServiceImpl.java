@@ -4,7 +4,6 @@ import com.dcs.docusign.dto.*;
 import com.dcs.docusign.entity.Document;
 import com.dcs.docusign.repository.DocumentRepository;
 import com.docusign.esign.client.ApiException;
-import org.apache.commons.collections4.CollectionUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
